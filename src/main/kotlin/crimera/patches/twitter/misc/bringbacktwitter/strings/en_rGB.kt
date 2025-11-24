@@ -55,7 +55,7 @@ object en_rGB {
         "view_tweet_text" to "View tweet",
         "quote_label_subtitle" to "Add a comment, photo, or GIF before you share this tweet",
         "retweet_label_subtitle" to "Share this tweet with your followers",
-        "tweet_added_to_your_bookmarks" to "Tweet added to your Bookmarks",
+        "tweet_added_to_your_bookmarks" to "Tweet added in your Bookmarks",
         "tweet_author" to "Tweet author",
         "tweets_retweeted_accessibility_description" to "Tweeted by %s",
         "tweets_topic_accessibility_description" to "Tweet from topic %s",
